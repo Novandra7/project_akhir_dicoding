@@ -34,10 +34,19 @@ Proyek ini merupakan bagian dari tugas akhir dalam kursus "Belajar Analisis Data
 
 ## Dashboard(main.py)
 ### 1. Download file projectnya dengan cara git clone pada repository ini.
-### 2. Buat virtual environment dengan cara mengetikkan `python -m venv namaFolder`.
-### 3. Aktifkan virtual environtmen kalian dengan cara mengetikkan `Source .\namaFolder\Scripts\activate`.
+### 2. Buat virtual environment dengan cara mengetikkan
+```
+python -m venv namaFolder
+```
+### 3. Aktifkan virtual environtmen kalian dengan cara mengetikkan 
+```
+Source .\namaFolder\Scripts\activate
+```
 ### 4. Masukkan file/folder yang sudah di ekstrak dari hasil download git clone kalian ke dalam folder virtual environtmen kalian.
-### 5. Install semua module yang terdapat di file requirements.txt dengan cara mengetikkan `pip install -r requirements.txt`.
+### 5. Install semua module yang terdapat di file requirements.txt dengan cara mengetikkan 
+```
+pip install -r requirements.txt
+```
 ### 6. Jalankan streamlit dengan mengetikkan:
 ```
 streamlit run main.py
@@ -48,8 +57,10 @@ python -r streamlit run main.py
 ```
 # 4. Screenshots
 ![image](https://github.com/user-attachments/assets/824c5349-3eda-43c4-873a-63bcd18e485c)
-![image](https://github.com/user-attachments/assets/cdf8af27-e107-4e91-ad47-c23a42d5a44b)
-![image](https://github.com/user-attachments/assets/3dcd9965-30c3-4e52-aa93-3272e7ceab1f)
+![image](https://github.com/user-attachments/assets/4ffabe7f-4f75-413e-9131-abd75c1a7405)
+![image](https://github.com/user-attachments/assets/6d3d29d6-0a11-4fd8-b0c7-51b0f43de712)
+
+
 
 
 
